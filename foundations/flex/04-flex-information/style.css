@@ -22,12 +22,9 @@ img {
   gap: 52px;
 }
 
-/* .barberry, .pepper, .saffron, .chili{
-  display:flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-} */
+.info{
+  max-width: 200px;
+}
 
 /* do not edit this footer */
 .footer {
